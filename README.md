@@ -1,7 +1,7 @@
 Super Hero Universe Miniature Game
 ================
 
-###NOTE###
+### NOTE ###
 This repo is deprecated and no longer in development. It was split into [Marvel](https://github.com/BSData/marvel-universe) and [DC](https://github.com/BSData/dc-universe) Universes.
 
 #### Contents ####
