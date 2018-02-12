@@ -1,7 +1,10 @@
 Super Hero Universe Miniature Game
 ================
 
-####Contents####
+###NOTE###
+This repo is deprecated and no longer in development. It was split into [Marvel](https://github.com/BSData/marvel-universe) and [DC](https://github.com/BSData/dc-universe) Universes.
+
+#### Contents ####
 
 * [Overview][]
 * [Links][]
@@ -11,7 +14,7 @@ Super Hero Universe Miniature Game
 [Links]: #links
 
 
-##Overview##
+## Overview ##
 
 __What's this?__
 
@@ -24,7 +27,7 @@ __Okay, nice project. Is it actually working?__ _I just want those files..._
 Yeah! We have it hosted on AppSpot. Take a look: [BattleScribe Data on Appspot][]
 
 
-##Links##
+## Links ##
 
 * [BattleScribe homepage][]
 * [BattleScribe Data on Appspot][]
